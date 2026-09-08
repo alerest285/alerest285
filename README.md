@@ -1,3 +1,3 @@
 robotics @ eth
 
-[a](https://alejorestrepo.me/)
+[alejorestrepo.me](https://alejorestrepo.me/)
